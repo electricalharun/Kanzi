@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cinar\\Desktop\\OpenCV Denemeleri\\OpenCV_Deneme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC217980-52BA-400B-B7EA-B8B188A786C2}|OpenCV_Deneme\\OpenCV_Deneme.pyproj|C:\\Users\\cinar\\Desktop\\OpenCV Denemeleri\\OpenCV_Deneme\\OpenCV_Deneme\\OpenCV_Deneme.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AC217980-52BA-400B-B7EA-B8B188A786C2}|OpenCV_Deneme\\OpenCV_Deneme.pyproj|solutionrelative:OpenCV_Deneme\\OpenCV_Deneme.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenCV_Deneme.py",
+              "DocumentMoniker": "C:\\Users\\cinar\\Desktop\\OpenCV Denemeleri\\OpenCV_Deneme\\OpenCV_Deneme\\OpenCV_Deneme.py",
+              "RelativeDocumentMoniker": "OpenCV_Deneme\\OpenCV_Deneme.py",
+              "ToolTip": "C:\\Users\\cinar\\Desktop\\OpenCV Denemeleri\\OpenCV_Deneme\\OpenCV_Deneme\\OpenCV_Deneme.py",
+              "RelativeToolTip": "OpenCV_Deneme\\OpenCV_Deneme.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-31T12:22:11.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
